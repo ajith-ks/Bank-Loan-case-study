@@ -34,4 +34,8 @@ The primary objective of this project is to identify predictive patterns that di
 3. **Bank loan case study.pptx**: Concise presentation slides summarizing key findings and insights.
 4. **README.md**: Comprehensive overview of the project, business objectives, key insights, and repository contents.
 
+### Contact Information:
+
+Connect with me on LinkedIn for further discussion and collaboration opportunities: [Ajith KS on LinkedIn](https://www.linkedin.com/in/iajithks/)
+
 The Bank Loan Case Study represents a holistic endeavor to revolutionize loan approval processes through data-driven decision-making. With meticulous analysis and strategic insights, financial institutions can navigate the complex terrain of lending with confidence and precision. Welcome to the future of finance, where informed decisions pave the path to success.
